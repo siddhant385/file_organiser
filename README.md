@@ -2,7 +2,7 @@
 
 **file organiser made with python**
 
-####Dependencies 
+- Dependencies 
  Python 3x
  
 
